@@ -4,15 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xrobiul&label=Profile%20views&color=0e75b6&style=flat" alt="0xRobiul" />
 <a href="https://0xrobiul.me"><img src="https://img.shields.io/badge/Portfolio-0xrobiul.me-red"></a>
 <a href="https://twitter.com/0xrobiul"><img src="https://img.shields.io/twitter/follow/0xrobiul.svg?logo=twitter"></a>
-
-
+<a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
 </p>
-
-<br><br>*17 Y/O | Student | Independent Security Researcher*<br><br>My blogs can be found at - <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
-
-
-
-
 ##
 <p>
 <a href="https://github.com/0xRobiul">
