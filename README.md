@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Robiul Awal</h1>
-<h3 align="center">A passionate InfoSec guy from Bangladesh trying to achieve the impossible.</h3>
+<h1 align="center">Hey there, I'm Robiul Awal (Fagun)</h1>
+<h3 align="center">I'm A Passionate Cybersecurity Enthusiast From Bangladesh!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xrobiul&label=Profile%20views&color=0e75b6&style=flat" alt="0xRobiul" />
 <a href="https://0xrobiul.me"><img src="https://img.shields.io/badge/Portfolio-0xrobiul.me-red"></a>
@@ -8,7 +8,7 @@
 
 </p>
 
-<br><br>*17 Y/O | Student | Independent Security Researcher*<br><br>My writeups can be found at - <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
+<br><br>*17 Y/O | Student | Independent Security Researcher*<br><br>My blogs can be found at - <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
 
 
 
