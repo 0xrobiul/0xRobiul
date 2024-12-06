@@ -3,8 +3,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xrobiul&label=Profile%20views&color=0e75b6&style=flat" alt="0xRobiul" />
 <a href="https://0xrobiul.me"><img src="https://img.shields.io/badge/Portfolio-0xrobiul.me-red"></a>
 <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
+<p>
+Hello, I'm Robiul Awal Fagun, a passionate cybersecurity enthusiast with a strong focus on offensive security. I specialize in penetration testing, red teaming, and constantly seeking new ways to identify and exploit vulnerabilities in systems.
+
+As an independent security researcher, I actively contribute to platforms like HackerOne, Intigriti, Bugcrowd, and I'm also a Strike Force Member on Yogosha, where I apply my skills to uncover security flaws and improve the overall security posture of organizations.
+
+I’m proud to be ranked 1st in Bangladesh on HackTheBox and was previously ranked 2nd in Bangladesh on TryHackMe. I also secured the 7th position globally in Hacker101’s CTF. These accomplishments fuel my passion for offensive security and motivate me to take on leadership roles in various CTF competitions, as well as design and organize cybersecurity events like LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, and EWU CTF, among others.
+
+My expertise spans multiple areas of offensive security, including penetration testing, exploitation techniques, and vulnerability research. I'm certified in Red Teaming, MCRTA, PEH, JPT, PenTest+, ISO 27001 A., CAP, CNSP, CCSP-AWS, CNPen, and many more.
+
+I’m deeply committed to advancing the field of offensive security and contributing to the cybersecurity community.
+
+Currently, I am pursuing a Diploma in Computer Science & Technology at Brahmanbaria Polytechnic Institute, where I continue to expand my skills and stay ahead of the ever-evolving world of cybersecurity.
 </p>
-<p>Robiul Awal Fagun is a cybersecurity enthusiast with extensive experience in both offensive and defensive security. Currently employed at Blue Team Bangladesh Ltd., he has also held positions as a Cyber Security Executive at WHITELION Technologies Ltd. and as a Junior Instructor at Cyber Bangla. As an independent security researcher, Robiul contributes to platforms like HackerOne, Intigriti, and Bugcrowd.<br>Robiul is currently pursuing a Diploma in Engineering, specializing in Computer Science & Technology, at Brahmanbaria Polytechnic Institute. His accomplishments include ranking 3rd in Bangladesh on HackTheBox and TryHackMe, as well as securing a worldwide 7th position in Hacker101's CTF. He has taken leading positions in several CTFs, including Spooky CTF 2022, BDSec CTF 2023, BUET CTFB 2023, Flag Hunt 2022, Knight CTF 2023, IUT CTF 2024, Flag Fest 2024, DU CTF 2023, N00bz CTF 2023, BugHunt 2023 and more. Robiul is also a recognized event organizer and challenge designer, contributing to the cybersecurity community through events like LeetCon, DIUCSC-01 CTF and more.<br>Robiul holds numerous certifications from esteemed organizations such as CyberWarFare Labs, The SecOps Group, Cisco, TryHackMe and more. These certifications cover a wide range of topics, including cloud security, penetration testing, and red teaming. His leadership and teamwork skills further complement his technical expertise, making him a valuable asset in the cybersecurity field.</p>
 
 ##
 <p>
