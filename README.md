@@ -10,37 +10,9 @@ As an independent security researcher, I actively contribute to platforms like H
 
 I’m proud to be ranked 1st in Bangladesh on HackTheBox and was previously ranked 2nd in Bangladesh on TryHackMe. I also secured the 7th position globally in Hacker101’s CTF. These accomplishments fuel my passion for offensive security and motivate me to take on leadership roles in various CTF competitions, as well as design and organize cybersecurity events like LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, and EWU CTF, among others.
 
-My expertise spans multiple areas of offensive security, including penetration testing, exploitation techniques, and vulnerability research. I'm certified in Red Teaming, MCRTA, PEH, JPT, PenTest+, ISO 27001 A., CAP, CNSP, CCSP-AWS, CNPen, and many more.
+My expertise spans multiple areas of offensive security, including penetration testing, exploitation techniques, and vulnerability research. I'm certified in Red Teaming, MCRTA, PEH, JPT, PenTest+, ACP, CAP, CNSP, CCSP-AWS, CNPen, CAPenX and many more.
 
 I’m deeply committed to advancing the field of offensive security and contributing to the cybersecurity community.
 
 Currently, I am pursuing a Diploma in Computer Science & Technology at Brahmanbaria Polytechnic Institute, where I continue to expand my skills and stay ahead of the ever-evolving world of cybersecurity.
 </p>
-
-##
-<p>
-<a href="https://github.com/0xRobiul">
-  <table>
-    <tr>
-      <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xrobiul&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xrobiul&theme=highcontrast&hide_border=false" />
-      </td>
-    </tr>
-  </table>
-</a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
