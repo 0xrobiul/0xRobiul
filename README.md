@@ -1,18 +1,62 @@
-<h1 align="center">Robiul Awal Fagun</h1>
-<h3 align="center">I'm A Passionate Cybersecurity Enthusiast From Bangladesh!!</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xrobiul&label=Profile%20views&color=0e75b6&style=flat" alt="0xRobiul" />
-<a href="https://0xrobiul.me"><img src="https://img.shields.io/badge/Portfolio-0xrobiul.me-red"></a>
-<a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-red"></a><br>
-<p>
-Hello, I'm Robiul Awal Fagun, a passionate cybersecurity enthusiast with a strong focus on offensive security. I specialize in penetration testing, red teaming, and constantly seeking new ways to identify and exploit vulnerabilities in systems.
+<h1 align="center">Robiul Awal Fagun (0xRobiul)</h1>
+<h3 align="center">Offensive Security Researcher • Red Teamer • Cybersecurity Professional</h3>
 
-As an independent security researcher, I actively contribute to platforms like HackerOne, Intigriti, Bugcrowd, and I'm also a Strike Force Member on Yogosha, where I apply my skills to uncover security flaws and improve the overall security posture of organizations.
-
-I’m proud to be ranked 1st in Bangladesh on HackTheBox and was previously ranked 2nd in Bangladesh on TryHackMe. I also secured the 7th position globally in Hacker101’s CTF. These accomplishments fuel my passion for offensive security and motivate me to take on leadership roles in various CTF competitions, as well as design and organize cybersecurity events like LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, and EWU CTF, among others.
-
-My expertise spans multiple areas of offensive security, including penetration testing, exploitation techniques, and vulnerability research. I'm certified in Red Teaming, MCRTA, PEH, JPT, PenTest+, ACP, CAP, CNSP, CCSP-AWS, CNPen, CAPenX and many more.
-
-I’m deeply committed to advancing the field of offensive security and contributing to the cybersecurity community.
-
-Currently, I am pursuing a Diploma in Computer Science & Technology at Brahmanbaria Polytechnic Institute, where I continue to expand my skills and stay ahead of the ever-evolving world of cybersecurity.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xrobiul&label=Profile%20views&color=6a0dad&style=flat" />
+  <a href="https://0xrobiul.me"><img src="https://img.shields.io/badge/Portfolio-0xrobiul.me-8A2BE2?style=flat&logo=github"></a>
+  <a href="https://blog.0xrobiul.me"><img src="https://img.shields.io/badge/Blog-blog.0xrobiul.me-8A2BE2?style=flat&logo=hashnode"></a>
 </p>
+
+## 👋 About Me
+I am **Robiul Awal Fagun**, a cybersecurity professional specializing in **Offensive Security, Penetration Testing, Red Teaming, and Vulnerability Research**.  
+I actively contribute to security platforms including **HackerOne, Bugcrowd, Intigriti**, and serve as a **Strike Force Member at Yogosha**.
+
+I am passionate about **identifying vulnerabilities, improving system security, and educating the community** through CTF competitions and workshops.
+
+## 🏆 Achievements
+**HackTheBox 2025** — 1st in Bangladesh  
+**TryHackMe 2024** — 2nd in Bangladesh  
+**Hacker101 CTF** — 7th Globally  
+**BSC ICT Fest'25 CTF** — Corporate Champion  
+**BTRC Hackathon 2025** — 2nd Runner-Up  
+**FlagHunt 2023** — 2nd Runner-Up  
+**National Skills Competition 2024** — 2nd Runner-Up  
+**Flag Fest 2024** — 2nd Runner-Up  
+**Spooky CTF 2022** — Champion  
+
+Hosted CTF events: LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, EWU CTF
+
+## 🛡️ Core Skills
+Penetration Testing & Vulnerability Assessment  
+Red Team Operations & Threat Simulation  
+Web Application Security (OWASP Top 10, Burp Suite)  
+Network Security & Exploitation (Nmap, Wireshark)  
+Active Directory & Cloud Security
+API Security 
+Linux & Windows Hardening  
+Exploit Development & Security Research  
+
+## 🎓 Certifications
+**CRTE, CRTA, CRTeamer, AD-RTS, MCRTA**  
+**CAPenX, CAPen, CAP, CNPen, CNSP**  
+**CCSP-AWS**  
+**ACP, CASA**  
+**ISO/IEC 27001:2022 Lead Auditor**  
+**Burp Suite Certified Practitioner (BSCP)**  
+**Penetration Tester Level 1 (PT1)**  
+
+## 🚀 Featured Projects
+**Anti-CTFd Solution** – Secure CTF infrastructure generating unique flags per team.  
+
+**CTFd–Discord Integration** – Automates verification, role assignment, and user syncing for CTF events.  
+
+**IPSec → FortiGate VPN Deployment** – Secure internal API connectivity for enterprise systems.  
+
+## 📫 Contact
+<p align="center">
+  <a href="mailto:root@0xrobiul.me"><img src="https://img.shields.io/badge/Email-root@0xrobiul.me-8A2BE2?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/0xrobiul"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=flat&logo=linkedin"></a>
+  <a href="https://x.com/0xRobiul"><img src="https://img.shields.io/badge/Twitter-Follow-8A2BE2?style=flat&logo=twitter"></a>
+</p>
+
+<p align="center"><i>“Breaking systems to build stronger ones.”</i></p>
