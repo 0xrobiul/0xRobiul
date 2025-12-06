@@ -14,15 +14,15 @@ I actively contribute to security platforms including **HackerOne, Bugcrowd, Int
 I am passionate about **identifying vulnerabilities, improving system security, and educating the community** through CTF competitions and workshops.
 
 ## 🏆 Achievements
-**HackTheBox 2025** — 1st in Bangladesh  
-**TryHackMe 2024** — 2nd in Bangladesh  
-**Hacker101 CTF** — 7th Globally  
-**BSC ICT Fest'25 CTF** — Corporate Champion  
-**BTRC Hackathon 2025** — 2nd Runner-Up  
-**FlagHunt 2023** — 2nd Runner-Up  
-**National Skills Competition 2024** — 2nd Runner-Up  
-**Flag Fest 2024** — 2nd Runner-Up  
-**Spooky CTF 2022** — Champion  
+- **HackTheBox 2025** — 1st in Bangladesh  
+- **TryHackMe 2024** — 2nd in Bangladesh  
+- **Hacker101 CTF** — 7th Globally  
+- **BSC ICT Fest'25 CTF** — Corporate Champion  
+- **BTRC Hackathon 2025** — 2nd Runner-Up  
+- **FlagHunt 2023** — 2nd Runner-Up  
+- **National Skills Competition 2024** — 2nd Runner-Up  
+- **Flag Fest 2024** — 2nd Runner-Up  
+- **Spooky CTF 2022** — Champion  
 
 Hosted CTF events: LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, EWU CTF
 
@@ -37,20 +37,21 @@ Hosted CTF events: LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, EWU CTF
 - Exploit Development & Security Research  
 
 ## 🎓 Certifications
-**CRTE, CRTA, CRTeamer, AD-RTS, MCRTA**  
-**CAPenX, CAPen, CAP, CNPen, CNSP**  
-**CCSP-AWS**  
-**ACP, CASA**  
-**ISO/IEC 27001:2022 Lead Auditor**  
-**Burp Suite Certified Practitioner (BSCP)**  
-**Penetration Tester Level 1 (PT1)**  
+- **CRTE, CRTA, CRTeamer, AD-RTS, MCRTA**  
+- **CAPenX, CAPen, CAP, CNPen, CNSP**  
+- **CCSP-AWS**  
+- **ACP, CASA**  
+- **ISO/IEC 27001:2022 Lead Auditor**  
+- **Burp Suite Certified Practitioner (BSCP)**  
+- **Penetration Tester Level 1 (PT1)**  
 
 ## 🚀 Featured Projects
-**Anti-CTFd Solution** – Secure CTF infrastructure generating unique flags per team.  
-
-**CTFd–Discord Integration** – Automates verification, role assignment, and user syncing for CTF events.  
-
-**IPSec → FortiGate VPN Deployment** – Secure internal API connectivity for enterprise systems.  
+- **Red Team Engagement** - Full-scope adversary emulation with PoC and remediation actions.
+- **VA/PT Engagement** - Automated & manual testing across web, API, network, cloud; prioritized findings with exploit evidence and remediation steps.
+- **Source Code Review** - Manual reviews for backend/frontend; annotated vuln snippets, severity, patch examples, and secure-coding checklist.
+- **Network Configuration Review** - Comprehensive review of network architectures, configurations, and security controls to ensure reliability, compliance, and hardened deployment standards.
+- **Anti-CTFd Solution** - Engineered containerized environments for CTF competitions, providing unique flags per team to prevent sharing and preserve challenge integrity.
+- **CTFd-Discord Integration** - Developed a CTFd plugin for Discord that automates user verification, syncs nicknames with CTFd usernames, and assigns roles.
 
 ## 📫 Contact
 <p align="center">
