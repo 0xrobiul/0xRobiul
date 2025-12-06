@@ -27,14 +27,14 @@ I am passionate about **identifying vulnerabilities, improving system security, 
 Hosted CTF events: LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, EWU CTF
 
 ## 🛡️ Core Skills
-Penetration Testing & Vulnerability Assessment  
-Red Team Operations & Threat Simulation  
-Web Application Security (OWASP Top 10, Burp Suite)  
-Network Security & Exploitation (Nmap, Wireshark)  
-Active Directory & Cloud Security
-API Security 
-Linux & Windows Hardening  
-Exploit Development & Security Research  
+- Penetration Testing & Vulnerability Assessment  
+- Red Team Operations & Threat Simulation  
+- Web Application Security
+- Network Security & Exploitation
+- Active Directory & Cloud Security
+- API Security 
+- Linux & Windows Hardening  
+- Exploit Development & Security Research  
 
 ## 🎓 Certifications
 **CRTE, CRTA, CRTeamer, AD-RTS, MCRTA**  
