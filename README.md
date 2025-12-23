@@ -38,8 +38,7 @@ Hosted CTF events: LeetCon, DIUCSC-01 CTF, CCAF CTF 2024, EWU CTF
 
 ## 🎓 Certifications
 - **CRTE, CRTA, CRTeamer, AD-RTS, MCRTA**  
-- **CAPenX, CAPen, CAP, CNPen, CNSP**  
-- **CCSP-AWS**  
+- **CAPenX, CAPen, CAP, CNPen, CNSP, CCSP-AWS**  
 - **ACP, CASA, ASCP**  
 - **ISO/IEC 27001:2022 Lead Auditor**  
 - **Burp Suite Certified Practitioner (BSCP)**  
